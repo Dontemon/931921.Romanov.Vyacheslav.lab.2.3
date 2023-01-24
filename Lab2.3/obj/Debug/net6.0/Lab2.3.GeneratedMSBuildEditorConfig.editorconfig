@@ -1,0 +1,61 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Lab2._3
+build_property.RootNamespace = Lab2._3
+build_property.ProjectDir = C:\Users\Слава\source\repos\Lab2.3\Lab2.3\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Слава\source\repos\Lab2.3\Lab2.3
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Слава/source/repos/Lab2.3/Lab2.3/Views/Calc/ManualParsingInSeparateActions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsY1xNYW51YWxQYXJzaW5nSW5TZXBhcmF0ZUFjdGlvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Слава/source/repos/Lab2.3/Lab2.3/Views/Calc/ManualParsingInSingleAction.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsY1xNYW51YWxQYXJzaW5nSW5TaW5nbGVBY3Rpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Слава/source/repos/Lab2.3/Lab2.3/Views/Calc/ModelBindingParametrs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsY1xNb2RlbEJpbmRpbmdQYXJhbWV0cnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Слава/source/repos/Lab2.3/Lab2.3/Views/Calc/ModelBindingSeparateModel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsY1xNb2RlbEJpbmRpbmdTZXBhcmF0ZU1vZGVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Слава/source/repos/Lab2.3/Lab2.3/Views/Calc/Results.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsY1xSZXN1bHRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Слава/source/repos/Lab2.3/Lab2.3/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Слава/source/repos/Lab2.3/Lab2.3/Views/Mockups/quiz.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9ja3Vwc1xxdWl6LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Слава/source/repos/Lab2.3/Lab2.3/Views/Mockups/quizRes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9ja3Vwc1xxdWl6UmVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Слава/source/repos/Lab2.3/Lab2.3/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Слава/source/repos/Lab2.3/Lab2.3/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Слава/source/repos/Lab2.3/Lab2.3/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-gqh1knnut8

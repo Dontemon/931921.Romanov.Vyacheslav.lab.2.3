@@ -1,0 +1,14 @@
+﻿@model TasksModel
+@{
+    ViewData["Title"] = "Quiz";
+}
+
+<h1>Quiz</h1>
+<div class="calculations">
+    <form method='post'>
+        <div> <b>@Model.first @Model.sign @Model.second = </b></div>
+        <input type='number' name='result' class="in"><br>
+        <input type="submit" name='action' value="Next" class="Next">
+        <input type='submit' name='action' value="Finish" class="Finish">
+    </form>
+</div>

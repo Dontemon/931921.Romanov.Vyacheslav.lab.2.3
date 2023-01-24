@@ -1,0 +1,21 @@
+﻿@using Lab2._3.Models
+@model Tasks
+@{
+    int i = 0;
+    ViewData["Title"] = "Quiz Results";
+}
+
+<h1>Quiz results</h1>
+<div class="calculations">
+    <h2>Right answers @Model.counterCorrectAnswers out @Model.counterOfTasks</h2>
+
+    @foreach (TasksModel temp in @Model.getList())
+    {
+        i++;
+        <div>@i. @temp.first @temp.sign @temp.second = @temp.result</div>
+    }
+</div>
+
+@{
+    Model.clear();
+}
